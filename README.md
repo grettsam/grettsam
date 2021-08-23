@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola! Mi nombre es 
+## _Sebastian Infante 👇_
+>  _Diseñador Gráfico y Analista Programador_
 
-<!--
-**grettsam/grettsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![avatar](https://avatars.githubusercontent.com/u/47421447?v=4)
 
-Here are some ideas to get you started:
+# > Tecnologías con las que trabajo
+- HTML
+- CSS
+- SASS
+- Javascripst
+- NodeJs
+- Angular
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Puedes ver mi github o entrar a mi sitio.
+# sebastian-infante.herokuapp.com/
